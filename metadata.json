@@ -1,0 +1,5 @@
+{
+  "name": "靓仔靓女卫生值日排班",
+  "description": "理发店店员轮排卫生值日单页应用，支持随机抽签、生成海报和本地存储。",
+  "requestFramePermissions": []
+}
